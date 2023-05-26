@@ -337,6 +337,7 @@ nav {
   .links {
     display: flex;
     gap: 0.5rem;
+    line-height: 1.5;
   }
 
   .links a {
